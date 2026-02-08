@@ -1,52 +1,68 @@
-# Luiz Jardel 👋
+#  Luiz Jardel
 
-<p align="center">
-  <strong>Desenvolvedor Backend</strong>
-</p>
+**`Desenvolvedor Backend`**
 
-<p align="center">
-  <a href="https://www.instagram.com/dev.jardel/">Instagram</a> •
-  <a href="https://www.youtube.com/@devjardel13?sub_confirmation=1">YouTube</a>
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Me chamo **Luiz Jardel do Nascimento**, tenho **20 anos**, sou natural do **Ceará** e atualmente curso  
-**Análise e Desenvolvimento de Sistemas** na **Estácio**.
-
-Tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando evoluir em lógica, boas práticas e programação.
-
----
-
-## 🚀 Linguagens & Tecnologias
+Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no Colégio Dom Felipe,  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. "[Perfil do Instagram](https://www.instagram.com/dev.jardel/)".
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="32" />
+    <a href="https://www.youtube.com/@devjardel13?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=dev-jardel13&show_icons=true&theme=tokyonight&count_private=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=tokyonight"
-  />
-</p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
+
+<br/>
+<br/>
 ## 🔥 Atividade
 
 <p align="center">
