@@ -63,7 +63,7 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
 
 <br/>
 <br/>
-## 🔥 Atividade
+🔥 Atividade
 
 <p align="center">
   <img
@@ -73,13 +73,3 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
 
 ---
 
-## 📫 Onde me encontrar
-
-- 📸 Instagram: [@dev.jardel](https://www.instagram.com/dev.jardel/)
-- ▶️ YouTube: [@devjardel13](https://www.youtube.com/@devjardel13)
-
----
-
-<p align="center">
-  <em>Em constante evolução 🚀</em>
-</p>
