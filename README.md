@@ -4,6 +4,10 @@
 
 Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no Colégio Dom Felipe,  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. "[Perfil do Instagram](https://www.instagram.com/dev.jardel/)".
 tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando evoluir em lógica, boas práticas e programação.
+🔥 Atividade
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jardel13&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 <p align="left">
@@ -59,8 +63,7 @@ tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando
 <br/>
 <br/>
 🔥 Atividade
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jardel13&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jardel13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
