@@ -62,8 +62,5 @@ tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando
 
 <br/>
 <br/>
-🔥 Atividade
 
-
----
 
