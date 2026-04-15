@@ -9,7 +9,7 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-             <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" img 
+             <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="youtube logo" img 
         />
     </a>
     <a href="https://www.instagram.com/dev.jardel/">
@@ -64,8 +64,8 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
 
 <br/>
 <br/>
-## 📊 Estatísticas
 
+### 📊 Estatísticas
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dev-jardel13&show_icons=true&theme=tokyonight"
