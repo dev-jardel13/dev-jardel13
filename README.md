@@ -65,7 +65,7 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dev-jardel13&show_icons=true&theme=tokyonight"
