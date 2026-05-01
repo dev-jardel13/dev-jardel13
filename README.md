@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no Colégio Dom Felipe  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. "[Perfil do Instagram](https://www.instagram.com/dev.jardel/)".
+Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no Colégio Dom Felipe,  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. "[Perfil do Instagram](https://www.instagram.com/dev.jardel/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@devjardel13?sub_confirmation=1">
@@ -61,7 +61,17 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
 
+
+>
 
 
 <br/>
