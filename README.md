@@ -14,6 +14,7 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
     </a>
     <a href="https://www.instagram.com/dev.jardel/">
  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ </a>
 </p>
 
 ---
@@ -78,13 +79,6 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
 <br/>
 
 ### 📊 Estatísticas 
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jardel13&theme=tokyonight&layout=compact"
-    height="180"
-  />
-</p>
-
   <img src="https://github-readme-statss-inky.vercel.app/api?username=dev-jardel13&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
