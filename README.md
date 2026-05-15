@@ -1,4 +1,6 @@
-#  Luiz Jardel
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Luiz%20Jardel&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff">
+</p>
 
 **`Desenvolvedor Backend`**
 
@@ -79,8 +81,8 @@ Me chamo Luiz Jardel do Nascimento, tenho 20 anos e sou natural do Ceará. Concl
     />
     <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Postman" 
+    title="Postman"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
